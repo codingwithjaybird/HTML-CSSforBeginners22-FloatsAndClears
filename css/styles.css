@@ -1,0 +1,64 @@
+body {
+    font-family: arial;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+p {
+  color: red;
+}
+
+#box-1 {
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+  float: left;
+  /* opacity: 20%; */
+}
+
+#box-2 {
+  height: 100px;
+  width: 100px;
+  background-color: magenta;
+  float: left;
+}
+
+#box-3 {
+  height: 100px;
+  width: 100px;
+  background-color: lightgreen;
+  float: left;
+  float: right;
+}
+
+#box-4 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  float: left;
+}
+
+#box-5 {
+  height: 100px;
+  width: 100px;
+  background-color: plum;
+  float: right;
+}
+
+/* img {
+  float: right;
+} */
+
+/* p {
+  clear: both;
+} */
+
+#clown {
+  float: left;
+}
+
+#tang {
+  float: right;
+}
